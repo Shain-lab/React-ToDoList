@@ -10,6 +10,7 @@ function App() {
     setItem((prevItem)=>{
       return [...prevItem, input];
     })
+    setInput("");
   }
 
   return (
