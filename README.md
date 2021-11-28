@@ -3,4 +3,4 @@ Basic ToDoList
 
 
 # ToDoList AppView 
-![TodoList](todoappview.png)
+![TodoList](public/todoappview.png)
